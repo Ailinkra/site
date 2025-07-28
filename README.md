@@ -10,6 +10,7 @@
 
 >[!WARNING]
 > We are in a hard work in progress for [Polkadot Blockchain Academy Hackathon](https://polkadot.academy) <br>
+> Come back at the end of September !!
 
 ## Our Credo
 
