@@ -9,7 +9,7 @@
 <br>
 
 >[!WARNING]
-> We are in a hard work in progress for [Polkadotu Blockchain Academy Hackathon](https://polkadot.academy) <br>
+> We are in a hard work in progress for [Polkadot Blockchain Academy Hackathon](https://polkadot.academy) <br>
 
 ## Our Credo
 
