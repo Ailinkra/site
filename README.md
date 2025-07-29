@@ -22,7 +22,6 @@
 </div>
 <br>
 
-
 Projects Principles:
 
 - We **empower seamless collaboration**, ensuring that individual and collective contributions are recognized and rewarded.
